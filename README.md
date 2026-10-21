@@ -23,4 +23,5 @@ A clinical data cleaning and validation portfolio project using a synthetic clin
 All data used in this project will be synthetic and created for educational purposes. No real patient data will be included.
 
 ## Project Status
-In progress.
+
+Completed a Python-based data validation workflow on a synthetic clinical dataset. Implemented 12 edit checks and generated a discrepancy log containing 20 findings affecting 19 unique subject IDs. Created a data quality report and draft site queries for review.
