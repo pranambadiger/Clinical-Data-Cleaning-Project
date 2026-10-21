@@ -1,0 +1,20 @@
+ROW_INDEX,SUBJID_AT_SEEDING,VARIABLE,ORIGINAL_VALUE,SEEDED_VALUE,ISSUE_DESCRIPTION
+2,S003,AGE,58,nan,Missing age
+11,S012,HT,186.2,nan,Missing height
+24,S025,HGB,14.9,nan,Missing haemoglobin
+37,S038,ICDT,2025-06-05 00:00:00,NaT,Missing consent date
+48,S049,VISDT,2025-03-05 00:00:00,NaT,Missing visit date
+62,S063,SBP,146,nan,Missing systolic BP
+74,S075,WT,113.6,nan,Missing weight
+13,S014,SBP,130.0,225,SBP above assumed maximum
+21,S022,DBP,99,130,DBP above assumed maximum
+31,S032,HT,151.4,125.0,Height below assumed minimum
+43,S044,WT,113.7,720.0,Implausible weight; confirm value/unit
+56,S057,HGB,14.1,22.5,HGB above assumed maximum
+68,S069,AGE,40.0,82,Age above assumed maximum
+8,S009,VISDT,2025-08-30 00:00:00,2025-08-26 00:00:00,Visit date before consent
+90,S091,SUBJID,S091,S090,Duplicate subject ID
+15,S016,SEX,F,Male,Non-standard sex coding
+26,S027,SEX,F,male,Non-standard sex coding
+39,S040,SEX,M,Female,Non-standard sex coding
+52,S053,WT,101.4,223.5,Weight may be in pounds instead of kg; confirm before conversion
