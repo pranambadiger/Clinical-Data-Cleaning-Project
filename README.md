@@ -1,6 +1,5 @@
 # Clinical-Data-Cleaning-Project
 A clinical data cleaning and validation project using synthetic clinical study data, Python, and Excel.
-# Clinical Data Cleaning Project
 
 ## Overview
 A clinical data cleaning and validation portfolio project using a synthetic clinical study dataset.
@@ -24,4 +23,12 @@ All data used in this project will be synthetic and created for educational purp
 
 ## Project Status
 
-Completed a Python-based data validation workflow on a synthetic clinical dataset. Implemented 12 edit checks and generated a discrepancy log containing 20 findings affecting 19 unique subject IDs. Created a data quality report and draft site queries for review.
+Completed a clinical data cleaning and validation workflow using Python and pandas on a synthetic dataset of 100 records and 12 variables.
+
+- Implemented 12 data quality edit checks.
+- Identified 20 discrepancy records affecting 19 unique subject IDs.
+- Generated a discrepancy log with draft site queries.
+- Created an edit-check summary and data quality report.
+- Documented the project using GitHub.
+
+All data are synthetic and intended for educational and portfolio purposes only. Findings are flagged for review rather than silently corrected.
