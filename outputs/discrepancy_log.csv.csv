@@ -1,0 +1,21 @@
+SUBJID,CHECK_ID,VARIABLE,OBSERVED_VALUE,ISSUE_DESCRIPTION,DRAFT_SITE_QUERY
+S090,EC02,SUBJID,S090,Subject ID is duplicated,Please verify the subject identifier and confirm whether this record is a duplicate.
+S090,EC02,SUBJID,S090,Subject ID is duplicated,Please verify the subject identifier and confirm whether this record is a duplicate.
+S038,EC03,ICDT,NaT,Consent date is missing,Please verify the informed consent date against source documentation.
+S049,EC04,VISDT,NaT,Visit date is missing,Please verify the visit date against source documentation.
+S009,EC05,VISDT,2025-08-26 00:00:00,Visit date precedes consent date,Please confirm both dates and clarify the chronology.
+S003,EC06,AGE,nan,"Age is missing, invalid, or outside 18–75 years",Please verify the recorded age and confirm the correct value.
+S069,EC06,AGE,82.0,"Age is missing, invalid, or outside 18–75 years",Please verify the recorded age and confirm the correct value.
+S016,EC07,SEX,Male,Sex coding is missing or non-standard,Please confirm the intended coding using the study data conventions.
+S027,EC07,SEX,male,Sex coding is missing or non-standard,Please confirm the intended coding using the study data conventions.
+S040,EC07,SEX,Female,Sex coding is missing or non-standard,Please confirm the intended coding using the study data conventions.
+S012,EC08,HT,nan,"Height is missing, invalid, or outside 140–200 cm",Please verify the height and confirm the unit is centimetres.
+S032,EC08,HT,125.0,"Height is missing, invalid, or outside 140–200 cm",Please verify the height and confirm the unit is centimetres.
+S044,EC09,WT,720.0,"Weight is missing, invalid, or outside 40–150 kg",Please verify the weight and confirm the unit is kilograms before any conversion.
+S053,EC09,WT,223.5,"Weight is missing, invalid, or outside 40–150 kg",Please verify the weight and confirm the unit is kilograms before any conversion.
+S075,EC09,WT,nan,"Weight is missing, invalid, or outside 40–150 kg",Please verify the weight and confirm the unit is kilograms before any conversion.
+S014,EC10,SBP,225.0,"Systolic blood pressure is missing, invalid, or outside 80–200 mmHg",Please verify the systolic blood pressure against the source record.
+S063,EC10,SBP,nan,"Systolic blood pressure is missing, invalid, or outside 80–200 mmHg",Please verify the systolic blood pressure against the source record.
+S022,EC11,DBP,130,"Diastolic blood pressure is missing, outside 50–120 mmHg, or not below SBP",Please verify both blood pressure values and confirm the correct measurements.
+S025,EC12,HGB,nan,"Haemoglobin is missing, invalid, or outside 8–18 g/dL",Please verify the haemoglobin result and confirm the unit is g/dL.
+S057,EC12,HGB,22.5,"Haemoglobin is missing, invalid, or outside 8–18 g/dL",Please verify the haemoglobin result and confirm the unit is g/dL.
